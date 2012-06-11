@@ -19,6 +19,7 @@
     "hubot-scripts": ">=2.0.8",
     "underscore": "*",
     "underscore.string": "*",
+	"xml2js": "*",
     "githubot": "*",
     "optparse": "1.0.3"
   },
